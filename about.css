@@ -1,0 +1,61 @@
+.darth3 {
+    height: 350px;
+    width: 400px;
+    float: left;
+    margin-right: 50px;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+.darth1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+    margin-left: 200px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.darth2{
+    margin-top: 100px;
+}
+.darth4{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 80px;
+}
+.darth5{
+    font-size: small;
+    font-style: italic;
+}
+.darth6{
+    height: 400px;
+    width: 350px;
+    margin-left: 30px;
+}
+.darth7{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+    margin-left: 200px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.darth8{
+    height: 400px;
+    width: 300px;
+    margin-left: 70px;
+}
+body {
+    background-color:aqua;
+}
+.name4{
+    height: 20px;
+    width: 20px;
+    margin-left: 420px;
+}
